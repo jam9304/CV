@@ -2,10 +2,21 @@
 
 _Contact:_ [Email](mailto:jamesmooney93@gmail.com), [GitHub](https://github.com/jam9304)
 
-[Soft Skills](#soft-skills) | [Tech Skills](#tech-skills) | [Projects](#projects) | [Education](#education) | [Work Experience](#work-experience) | [Interests](#interests) | [Contact Details](#contact-details)
+[Introduction](#introduction)[Soft Skills](#soft-skills) | [Tech Skills](#tech-skills) | [Projects](#projects) | [Education](#education) | [Work Experience](#work-experience) | [Interests](#interests) | [Contact Details](#contact-details)
 
+<br>
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech. 
+## Introduction
+
+I am a enthusiastic software engineer who has _**almost**_ graduated from Makers Academy (an intensive 16 week full stack course).
+
+I have always had a passionate interest in tech having been an avid Nintendo fan from the age of 5, to discovering how to root and mod android phones in my early teenage years, and winding up in love battling through Codewars Katas not even a year ago.
+
+The Makers Course has shown me:
+
+- The process of learning new technologies for each project is addicting.
+- Finding and creating solutions with your team mates is insatiably satisfying.
+- Seeing an app that you have created is incredibly exciting.
 
 <br>
 
@@ -103,9 +114,4 @@ _Assistant Adult Social Worker_
 - Coffee, I absolutely love speciality, light roasted, coffee and the many different techniques to brew them.
 - Modding. I starting modding Android phones aged 12 and haven't stopped since. Most cool tech I get my hands on I mod as soon as I can (phones, keyboards, I built by own PC) and love tinkering with coffee tech too.
 - Sports. My main passion is Liverpool Football Club (You'll Never Walk Alone!).
-
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
