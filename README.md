@@ -2,11 +2,15 @@
 
 _Contact:_ [Email](mailto:jamesmooney93@gmail.com), [GitHub](https://github.com/jam9304)
 
+[Soft Skills](#-soft-skills) | [Tech Skills](#-tech-skills) | [Projects](#-projects) | [Education](#-education) | [Work Experience](#-work-experience) | [Hobbies](#-hobbies) | [Contact Details](#-contact-details)
+
+
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
 ### Soft Skills
 
 - Excellent communicator and love working with new people.
+- Great team player and have the ability to help keep morale high during stressful projects.
 - A fast an adaptable learner.
 - Keen eye for detail and love to problem solve, nothing feels better!
 - Curious nature and love to always be learning new things.
@@ -80,40 +84,9 @@ _Assistant Adult Social Worker_
 ### Hobbies
 
 - Video games, both casual and competitive, online Chess, and board games with friends.
-- Coffee, I absolutely love specialty light roasted coffee and the many different techniques to brew them.
+- Coffee, I absolutely love speciality, light roasted, coffee and the many different techniques to brew them.
 - Modding. I starting modding Android phones aged 12 and haven't stopped since. Most cool tech I get my hands on I mod as soon as I can (phones, keyboards, I built by own PC) and love tinkering with coffee tech too.
 - Sports. My main passion is Liverpool Football Club (You'll never walk alone!).
-
-### Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)**
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 
 
 #### Any other qualifications
