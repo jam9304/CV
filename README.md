@@ -2,7 +2,7 @@
 
 _Contact:_ [Email](mailto:jamesmooney93@gmail.com), [GitHub](https://github.com/jam9304)
 
-[Introduction](#introduction)[Soft Skills](#soft-skills) | [Tech Skills](#tech-skills) | [Projects](#projects) | [Education](#education) | [Work Experience](#work-experience) | [Interests](#interests) | [Contact Details](#contact-details)
+[Introduction](#introduction) | [Soft Skills](#soft-skills) | [Tech Skills](#tech-skills) | [Projects](#projects) | [Education](#education) | [Work Experience](#work-experience) | [Interests](#interests) | [Contact Details](#contact-details)
 
 <br>
 
