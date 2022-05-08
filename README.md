@@ -24,9 +24,9 @@ The Makers Course has shown me:
 
 - Excellent communicator and love working and learning from new people with different approaches to tasks.
 - Great team player and have the ability to help keep morale high during stressful projects.
-- A fast an adaptable learner.
-- Keen eye for detail and love to problem solve, nothing feels better!
-- Curious nature and love to always be learning new things.
+- A fast and adaptable learner.
+- Keen eye for detail and delight in problem solving, nothing feels better!
+- Curious nature with a desire to always be learning new things.
 
 <br>
 
