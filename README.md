@@ -77,11 +77,11 @@ _Medical Claims Assessor_
 
 - Started with the company as a Claims Co-Ordinator but was quickly promoted to a Claims Assessor.
 - Manage and assess new and ongoing claims for Healix's corporate clients.
-- Open new claims, providing information regarding a member's policy i.e. benefits, limitations, hints to get the most out of their policy.
-- Manage member's expectations and building up professional relationships to enable a stress free and efficient experience.
-- Review and assess medical reports to confirm whether a member was eligible for an appointment/procedure under the relevant T&Cs.
+- Open new claims, provide information regarding a member's policy i.e. benefits, limitations, hints to get the most out of their policy.
+- Manage member's expectations and build up professional relationships to enable a stress free and efficient experience.
+- Review and assess medical reports to confirm whether a member is eligible for an appointment/procedure under the relevant T&Cs.
 - Review costings for each claim to ensure they are appropriate.
-- Review processes in our team and ensure we were following the most appropriate/effective procedures for day to day tasks.
+- Review processes in our team and ensure we follow the most appropriate/effective procedures for day to day tasks.
 - Assist with the training of new staff.
 
 <br>
