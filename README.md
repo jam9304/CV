@@ -2,7 +2,7 @@
 
 _Contact:_ [Email](mailto:jamesmooney93@gmail.com), [GitHub](https://github.com/jam9304)
 
-[Soft Skills](#soft-skills) | [Tech Skills](#tech-skills) | [Projects](#projects) | [Education](#education) | [Work Experience](#work-experience) | [Hobbies](#hobbies) | [Contact Details](#contact-details)
+[Soft Skills](#soft-skills) | [Tech Skills](#tech-skills) | [Projects](#projects) | [Education](#education) | [Work Experience](#work-experience) | [Interests](#interests) | [Contact Details](#contact-details)
 
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
@@ -81,7 +81,7 @@ _Assistant Adult Social Worker_
 - After several weeks I would review the case and when I had successfully stabilised the situation, the case would be passed on to one of the long term teams. 
 - Other important day to day tasks included monitoring our duty inbox and allocating cases to other team members, filling out vast amounts of paperwork and completing financial spreadsheets in relation to support plans accurately and quickly, taking calls from Spelthorne residents and responding to queries and concerns, assisting with safeguarding cases and attending young career events to provide advice and my contact details should they need any further support.
 
-### Hobbies
+### Interests
 
 - Video games, both casual and competitive, online Chess, and board games with friends.
 - Coffee, I absolutely love speciality, light roasted, coffee and the many different techniques to brew them.
