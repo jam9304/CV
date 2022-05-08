@@ -110,8 +110,8 @@ _Assistant Adult Social Worker_
 
 ## Interests
 
-- Video games, both casual and competitive, online Chess, and board games with friends.
-- Coffee, I absolutely love speciality, light roasted, coffee and the many different techniques to brew them.
-- Modding. I starting modding Android phones aged 12 and haven't stopped since. Most cool tech I get my hands on I mod as soon as I can (phones, keyboards, I built by own PC) and love tinkering with coffee tech too.
+- Video games; both casual and competitive, online chess (which I learnt during the first Covid-19 lockdown), and board games with friends.
+- Coffee; I absolutely love light roasted, speciality coffee and the many different techniques to brew them.
+- Modding; I starting modding Android phones aged 12 and haven't stopped since. Most cool tech I get my hands on I mod as soon as I can (phones, keyboards, I built by own PC) and love tinkering with coffee tech too.
 - Sports. My main passion is Liverpool Football Club (You'll Never Walk Alone!).
 
