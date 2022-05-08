@@ -102,9 +102,9 @@ _Assistant Adult Social Worker_
 
 - I was within the Duty team which meant I was responsible for new cases or cases of colleagues who were not present. 
 - Meet adults with either physical or learning disabilities at their home and carry out a full social care assessment to understand their needs, which were often complex i.e. were they able to wash/dress/eat independently. 
-- Create support plans and when necessary liaise with other professionals such as care workers and occupational therapists. 
+- Create support plans and, when necessary, liaise with other professionals such as care workers and occupational therapists. 
 - After several weeks I would review the case and when I had successfully stabilised the situation, the case would be passed on to one of the long term teams. 
-- Other important day to day tasks included monitoring our duty inbox and allocating cases to other team members, filling out vast amounts of paperwork and completing financial spreadsheets in relation to support plans accurately and quickly, taking calls from Spelthorne residents and responding to queries and concerns, assisting with safeguarding cases and attending young career events to provide advice and my contact details should they need any further support.
+- Other important day to day tasks included monitoring our duty inbox and allocating cases to other team members, filling out vast amounts of paperwork and completing financial spreadsheets in relation to support plans accurately and quickly, taking calls from Spelthorne residents and responding to queries and concerns, assisting with safeguarding cases and leading young carer events, providing advice and onward support when needed.
 
 <br>
 
