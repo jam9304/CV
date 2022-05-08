@@ -65,7 +65,7 @@ The Makers Course has shown me:
 _BA Sociology (September 2012 - June 2015)_
 
 - Undergraduate degree, dissertation on Police Profiling in the 1981 Brixton Riots
-- 2:1
+- Grade: 2:1 (hons.)
 
 <br>
 
