@@ -8,7 +8,7 @@ _Contact:_ [Email](mailto:jamesmooney93@gmail.com), [GitHub](https://github.com/
 
 ## Introduction
 
-I am a enthusiastic software engineer who has _**almost**_ graduated from Makers Academy (an intensive 16 week full stack course).
+I am an enthusiastic software engineer who has _**almost**_ graduated from Makers Academy (an intensive 16 week full stack course).
 
 I have always had a passionate interest in tech having been an avid Nintendo fan from the age of 5, to discovering how to root and mod android phones in my early teenage years, and winding up in love battling through Codewars Katas not even a year ago.
 
