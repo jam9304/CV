@@ -1,27 +1,88 @@
-## Your Name
+# James Mooney
+
+_Contact:_ [Email](jamesmooney93@gmail.com), [GitHub](https://github.com/jam9304)
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
-## Projects
+### Soft Skills
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+- Excellent communicator and love working with new people.
+- A fast an adaptable learner.
+- Keen eye for detail and love to problem solve, nothing feels better!
+- Curious nature and love to always be learning new things.
 
-## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+### Tech Skills
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- JavaScript, React, Jest, Node.js, Express
+- Ruby, Rspec, Sinatra, Capybara
+- HTML, CSS, Handlebars
+- SQL, Postgres, TablePlus, MongoDB, MongoDB Compass, Mongoose
+- Command Line, Git, GitHub
 
-**Company Name** (start-date to end-date)  
-_Your job title_
 
-- Any experience relevent to software development
+### Projects
 
-## Skills
+| Name            | Description                          | Tech/tools                                                                             |
+| --------------- | ------------------------------------ | -------------------------------------------------------------------------------------- |
+| [Tom's Escape](https://github.com/jam9304/toms-escape-game)    | Online, point and click, escape room | JavaScript, React, Express, Node.js, MondoDB, Mongoose, Jest, HTML, CSS                |
+| [Quackbook](https://github.com/jam9304/acebook-quack-overflow) | Social media site aimed at ducks     | JavaScript, Express, Node.js, Handlebars, MondoDB, Mongoose, Jest, Cypress, HTML, CSS  |
+| [MakersBnB](https://github.com/jam9304/Makersbnb)              | An AirBnB clone                      | Ruby, Sinatra, HTML, CSS, RSpec, Capybara, Postgres, ActiveRecord                      |
+
+### Education
+
+**[Makers Academy](https://makers.tech/), London, UK (January 2022 - current)**
+
+- 16 week intensive software development course with emphasis on test driven development, programming and working in an agile way.
+- Over 10 different web apps built primarily using Javascript and Ruby.
+- JavaScript, React, Express, Node.js, MondoDB, Mongoose, Jest, HTML, Ruby, Sinatra, RSpec, Capybara, Postgres, Active Record.
+
+**[University of Sussex](https://www.sussex.ac.uk/), Brighton, East Sussex, UK**
+
+_BA Sociology (September 2012 - June 2015)_
+
+- Undergraduate degree, dissertation on Police Profiling in the 1981 Brixton Riots
+- 2:1
+
+### Work Experience
+
+**[Healix Health Services](https://healixhealthservices.co.uk/), Esher, Surrey, UK (April 2018 - January 2022)**
+
+_Medical Claims Assessor_
+
+- Start with the company as a claims co-ordinator but was promoted to a Claims Assessor.
+- Manage and assess new and ongoing claims for Healix's corporate clients.
+- Opening new claims, providing information regarding a member's policy i.e. benefits, limitations, hints to get the most out of their policy.
+- Review and assess medical reports to confirm whether a member was eligible for an appointment/procedure under the relevant T&Cs.
+- Review costings for each claim to ensure they are appropriate.
+- Review processes in our team and ensure we were following the most appropriate/effective procedures for day to day tasks.
+- Assist with the training of new staff.
+
+**[Molesey Refrigeration Centre](https://www.mrcentre.co.uk/), Molesey, Surrey, UK (December 2017 - February 2018)**  
+
+_Digital Assistant_
+
+- Assisted the digital restructuring of the company.
+- Moved all digital files onto the new system and create new files for all old paperwork stored in the office. 
+- I learnt how to use the newly installed software and the structure of the new server the company had purchased, in order to train current staff members how on to use them. 
+
+**[Surrey County Council](https://www.surreycc.gov.uk/), Staines, Surrey, UK (August 2015 - November 2016)**
+
+_Assistant Adult Social Worker_
+
+- I was within the Duty team which meant I was responsible for new cases or cases of colleagues who were not present. 
+- Meet adults with either physical or learning disabilities at their home and carry out a full social care assessment to understand their needs, which were often complex i.e. were they able to wash/dress/eat independently. 
+- Create support plans and when necessary liaise with other professionals such as care workers and occupational therapists. 
+- After several weeks I would review the case and when I had successfully stabilised the situation, the case would be passed on to one of the long term teams. 
+- Other important day to day tasks included monitoring our duty inbox and allocating cases to other team members, filling out vast amounts of paperwork and completing financial spreadsheets in relation to support plans accurately and quickly, taking calls from Spelthorne residents and responding to queries and concerns, assisting with safeguarding cases and attending young career events to provide advice and my contact details should they need any further support.
+
+### Hobbies
+
+- Video games, both casual and competitive, online Chess, and board games with friends.
+- Coffee, I absolutly love specialty light roasted coffee and the many different techniques to brew them.
+- Sports. My main passion is Liverpool Football Club (You'll never walk alone!).
+
+### Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
@@ -31,7 +92,7 @@ Consider skills relevent to software development. Then consider your best skills
 
 -How was the skill used?
 
--What did you do? (action)
+-What did you do? (action)**
 
 -What was the result?
 
@@ -51,27 +112,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
 
 #### Any other qualifications
 
 That in some arguable way make you a better software developer or well-rounded person
 
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
