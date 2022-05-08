@@ -50,9 +50,10 @@ _BA Sociology (September 2012 - June 2015)_
 
 _Medical Claims Assessor_
 
-- Start with the company as a claims co-ordinator but was promoted to a Claims Assessor.
+- Started with the company as a Claims Co-Ordinator but was quickly promoted to a Claims Assessor.
 - Manage and assess new and ongoing claims for Healix's corporate clients.
 - Opening new claims, providing information regarding a member's policy i.e. benefits, limitations, hints to get the most out of their policy.
+- Manage member's expectations and building up professional relationships to enable a stress free and efficient experience.
 - Review and assess medical reports to confirm whether a member was eligible for an appointment/procedure under the relevant T&Cs.
 - Review costings for each claim to ensure they are appropriate.
 - Review processes in our team and ensure we were following the most appropriate/effective procedures for day to day tasks.
@@ -79,7 +80,8 @@ _Assistant Adult Social Worker_
 ### Hobbies
 
 - Video games, both casual and competitive, online Chess, and board games with friends.
-- Coffee, I absolutly love specialty light roasted coffee and the many different techniques to brew them.
+- Coffee, I absolutely love specialty light roasted coffee and the many different techniques to brew them.
+- Modding. I starting modding Android phones aged 12 and haven't stopped since. Most cool tech I get my hands on I mod as soon as I can (phones, keyboards, I built by own PC) and love tinkering with coffee tech too.
 - Sports. My main passion is Liverpool Football Club (You'll never walk alone!).
 
 ### Skills
