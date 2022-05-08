@@ -1,6 +1,6 @@
 # James Mooney
 
-_Contact:_ [Email](jamesmooney93@gmail.com), [GitHub](https://github.com/jam9304)
+_Contact:_ [Email](mailto:jamesmooney93@gmail.com), [GitHub](https://github.com/jam9304)
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
