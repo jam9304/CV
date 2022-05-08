@@ -2,7 +2,7 @@
 
 _Contact:_ [Email](mailto:jamesmooney93@gmail.com), [GitHub](https://github.com/jam9304)
 
-[Soft Skills](#-soft-skills) | [Tech Skills](#-tech-skills) | [Projects](#-projects) | [Education](#-education) | [Work Experience](#-work-experience) | [Hobbies](#-hobbies) | [Contact Details](#-contact-details)
+[Soft Skills](#soft-skills) | [Tech Skills](#tech-skills) | [Projects](#projects) | [Education](#education) | [Work Experience](#work-experience) | [Hobbies](#hobbies) | [Contact Details](#contact-details)
 
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
