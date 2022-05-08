@@ -9,7 +9,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ### Soft Skills
 
-- Excellent communicator and love working with new people.
+- Excellent communicator and love working and learning from new people with different approaches to tasks.
 - Great team player and have the ability to help keep morale high during stressful projects.
 - A fast an adaptable learner.
 - Keen eye for detail and love to problem solve, nothing feels better!
